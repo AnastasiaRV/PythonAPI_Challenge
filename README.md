@@ -65,7 +65,7 @@ Now let's use your skills in working with weather data to plan future vacations.
 
 * Create a heat map that displays the humidity for every city from the part I of the homework.
 
-  ![heatmap](heat_map.png)
+  ![heatmap](HeatMap.png)
 
 * Narrow down the DataFrame to find your ideal weather condition. For example:
 
